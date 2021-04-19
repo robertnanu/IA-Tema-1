@@ -1,0 +1,20 @@
+Trebuie sa afisez nod
+dist = 0
+predecesor = None
+vase = [(1, 1, 'a'), (2, 1, 'b')]
+dist = 1
+predecesor = dist = 0
+predecesor = None
+vase = [(1, 1, 'a'), (2, 1, 'b')]
+
+vase = [(1, 0, 'a'), (2, 2, 'c')]
+dist = 2
+predecesor = dist = 1
+predecesor = dist = 0
+predecesor = None
+vase = [(1, 1, 'a'), (2, 1, 'b')]
+
+vase = [(1, 0, 'a'), (2, 2, 'c')]
+
+vase = [(1, 1, 'c'), (2, 1, 'c')]
+Detalii A* Optimizat

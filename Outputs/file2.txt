@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+Trebuie sa afisez nod
+distanta: 0
+vase: [(5, 2, 'rosu'), (3, 1, 'albastru')]
+Starea initiala este egala cu starea finala.
+Timpul gasirii solutie a fost de: 0 ms!
+Detalii UCS

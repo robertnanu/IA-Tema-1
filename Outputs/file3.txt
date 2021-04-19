@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+Trebuie sa afisez nod
+distanta: 0
+vase: [(5, 4, 'rosu'), (2, 2, 'galben'), (3, 0, 'nedefinit'), (7, 3, 'albastru'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 1
+vase: [(5, 5, 'mov'), (2, 2, 'galben'), (3, 0, 'nedefinit'), (7, 2, 'albastru'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 2
+vase: [(5, 5, 'mov'), (2, 0, 'galben'), (3, 0, 'nedefinit'), (7, 4, 'verde'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 3
+vase: [(5, 2, 'mov'), (2, 0, 'galben'), (3, 0, 'nedefinit'), (7, 7, 'maro'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+Timpul gasirii solutie a fost de: 1186 ms!
+
+
+
+
+
+
+
+Trebuie sa afisez nod
+distanta: 0
+vase: [(5, 4, 'rosu'), (2, 2, 'galben'), (3, 0, 'nedefinit'), (7, 3, 'albastru'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 1
+vase: [(5, 4, 'rosu'), (2, 2, 'galben'), (3, 0, 'nedefinit'), (7, 2, 'albastru'), (1, 0, 'nedefinit'), (4, 4, 'mov')]
+distanta: 2
+vase: [(5, 4, 'rosu'), (2, 0, 'galben'), (3, 0, 'nedefinit'), (7, 4, 'verde'), (1, 0, 'nedefinit'), (4, 4, 'mov')]
+distanta: 3
+vase: [(5, 4, 'rosu'), (2, 0, 'galben'), (3, 0, 'nedefinit'), (7, 7, 'maro'), (1, 0, 'nedefinit'), (4, 1, 'mov')]
+Timpul gasirii solutie a fost de: 2683 ms!
+
+
+
+
+
+
+
+Trebuie sa afisez nod
+distanta: 0
+vase: [(5, 4, 'rosu'), (2, 2, 'galben'), (3, 0, 'nedefinit'), (7, 3, 'albastru'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 1
+vase: [(5, 1, 'rosu'), (2, 2, 'galben'), (3, 3, 'rosu'), (7, 3, 'albastru'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 2
+vase: [(5, 1, 'rosu'), (2, 2, 'galben'), (3, 3, 'rosu'), (7, 2, 'albastru'), (1, 0, 'nedefinit'), (4, 4, 'mov')]
+distanta: 3
+vase: [(5, 1, 'rosu'), (2, 0, 'galben'), (3, 3, 'rosu'), (7, 4, 'verde'), (1, 0, 'nedefinit'), (4, 4, 'mov')]
+distanta: 4
+vase: [(5, 1, 'rosu'), (2, 0, 'galben'), (3, 3, 'rosu'), (7, 7, 'maro'), (1, 0, 'nedefinit'), (4, 1, 'mov')]
+Timpul gasirii solutie a fost de: 6291 ms!
+Detalii UCS

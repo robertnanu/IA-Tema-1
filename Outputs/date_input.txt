@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+Trebuie sa afisez nod
+distanta: 0
+vase: [(5, 4, 'rosu'), (2, 2, 'galben'), (3, 0, 'nedefinit'), (7, 3, 'albastru'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 1
+vase: [(5, 1, 'rosu'), (2, 2, 'galben'), (3, 3, 'rosu'), (7, 3, 'albastru'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 2
+vase: [(5, 1, 'rosu'), (2, 1, 'galben'), (3, 3, 'rosu'), (7, 3, 'albastru'), (1, 1, 'galben'), (4, 3, 'rosu')]
+distanta: 3
+vase: [(5, 1, 'rosu'), (2, 2, 'verde'), (3, 3, 'rosu'), (7, 2, 'albastru'), (1, 1, 'galben'), (4, 3, 'rosu')]
+distanta: 4
+vase: [(5, 0, 'rosu'), (2, 2, 'verde'), (3, 3, 'rosu'), (7, 3, 'mov'), (1, 1, 'galben'), (4, 3, 'rosu')]
+Timpul gasirii solutie a fost de: 2856 ms!
+
+
+
+
+
+
+
+Trebuie sa afisez nod
+distanta: 0
+vase: [(5, 4, 'rosu'), (2, 2, 'galben'), (3, 0, 'nedefinit'), (7, 3, 'albastru'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 1
+vase: [(5, 1, 'rosu'), (2, 2, 'galben'), (3, 3, 'rosu'), (7, 3, 'albastru'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 2
+vase: [(5, 1, 'rosu'), (2, 1, 'galben'), (3, 3, 'rosu'), (7, 3, 'albastru'), (1, 1, 'galben'), (4, 3, 'rosu')]
+distanta: 3
+vase: [(5, 1, 'rosu'), (2, 2, 'verde'), (3, 3, 'rosu'), (7, 2, 'albastru'), (1, 1, 'galben'), (4, 3, 'rosu')]
+distanta: 4
+vase: [(5, 3, 'mov'), (2, 2, 'verde'), (3, 3, 'rosu'), (7, 0, 'albastru'), (1, 1, 'galben'), (4, 3, 'rosu')]
+Timpul gasirii solutie a fost de: 5716 ms!
+
+
+
+
+
+
+
+Trebuie sa afisez nod
+distanta: 0
+vase: [(5, 4, 'rosu'), (2, 2, 'galben'), (3, 0, 'nedefinit'), (7, 3, 'albastru'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 1
+vase: [(5, 1, 'rosu'), (2, 2, 'galben'), (3, 3, 'rosu'), (7, 3, 'albastru'), (1, 0, 'nedefinit'), (4, 3, 'rosu')]
+distanta: 2
+vase: [(5, 1, 'rosu'), (2, 1, 'galben'), (3, 3, 'rosu'), (7, 3, 'albastru'), (1, 0, 'nedefinit'), (4, 4, 'nedefinit')]
+distanta: 3
+vase: [(5, 1, 'rosu'), (2, 2, 'verde'), (3, 3, 'rosu'), (7, 2, 'albastru'), (1, 0, 'nedefinit'), (4, 4, 'nedefinit')]
+distanta: 4
+vase: [(5, 0, 'rosu'), (2, 2, 'verde'), (3, 3, 'rosu'), (7, 3, 'mov'), (1, 0, 'nedefinit'), (4, 4, 'nedefinit')]
+Timpul gasirii solutie a fost de: 8741 ms!
+Detalii UCS
